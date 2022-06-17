@@ -28,6 +28,7 @@ A social networking app for both prospective and current international students 
 **Required Must-have Stories**
 
 * Sign Up/Log in
+* Create a profile
 * Post
 * Like/Comment/Share/Save Post
 * Message

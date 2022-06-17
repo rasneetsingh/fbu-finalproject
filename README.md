@@ -73,6 +73,9 @@ A social networking app for both prospective and current international students 
  
 ## Wireframes
 
+![wireframe](https://user-images.githubusercontent.com/67130269/174226708-8cadde81-0dc9-47f6-b0ad-132c5ff67098.jpg)
+
+
 
 ## Schema 
 ### Models
